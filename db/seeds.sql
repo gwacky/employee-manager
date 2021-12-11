@@ -11,10 +11,10 @@ VALUES  ('Salesperson', 80000, 1),
         ('Lawyer', 190000, 4);
 
 INSERT INTO employee (first_name, last_name, manager_id, role_id)
-VALUES  ('Grace', 'Cunningham', null, 3),
+VALUES  ('Will', 'James', null, 3),
         ('Hunter', 'Trammell', null, 2),
-        ('Monica', 'Garcia', null, 1),
+        ('Cody', 'Simmons', null, 1),
         ('Derek', 'Cosby', null, 4),
-        ('Sally', 'Hill', null, 3),
-        ('Alan', 'Jones', null, 2),
-        ('Joy', 'Williamson', null, 1);
+        ('Sally', 'Fever', null, 3),
+        ('Alan', 'Ramey', null, 2),
+        ('Joy', 'Hank', null, 1);
